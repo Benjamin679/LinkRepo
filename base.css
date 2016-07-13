@@ -1,0 +1,26 @@
+textarea {
+    background-image: url(http://www.novelpublicity.com/wp-content/uploads/2014/11/shutterstock_143231788.jpg);
+    border: 2px solid #000000;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background: fit-content;
+}
+h1 {
+    color: grey;
+    position: relative;
+    left: 15px;
+    width: 90%;
+   
+}
+body {
+    position: relative;
+    top: 100px;
+    left: 400px;
+    width: 65%;
+}
+.search {
+    position: relative;
+    bottom: -176px;
+    left: 409px;
+    width: 400px;
+}
