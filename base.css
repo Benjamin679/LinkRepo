@@ -7,20 +7,20 @@ textarea {
 }
 h1 {
     color: grey;
+    /*
     position: relative;
     left: 15px;
     width: 90%;
-   
+   */
 }
 body {
-    position: relative;
-    top: 100px;
-    left: 400px;
+   
     width: 65%;
+    float: left;
 }
 .search {
-    position: relative;
-    bottom: -176px;
-    left: 409px;
+    /*position: relative;
+    top: -90px;
+    left: -10px;*/
     width: 400px;
 }
